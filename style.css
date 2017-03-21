@@ -10,31 +10,31 @@ html, body {
 }
 
 .mainphoto {
-  background: url(file:///Users/ivan.jayapurna/repo/Website%201/mainphoto1.jpg) no-repeat center center;
+  background: url(mainphoto1.jpg) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto2 {
-  background: url(file:///Users/ivan.jayapurna/repo/Website%201/mainphoto2.jpg) no-repeat center center;
+  background: url(mainphoto2.jpg) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto3 {
-  background: url(file:///Users/ivan.jayapurna/repo/Website%201/mainphoto3b.jpg) no-repeat center center;
+  background: url(mainphoto3b.jpg) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto4 {
-  background: url(file:///Users/ivan.jayapurna/repo/Website%201/ivan-3.jpg) no-repeat center center;
+  background: url(ivan-3.jpg) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto5 {
-  background: url(file:///Users/ivan.jayapurna/repo/Website%201/mainphoto5.jpg) no-repeat center center;
+  background: url(mainphoto5.jpg) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
