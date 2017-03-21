@@ -10,31 +10,31 @@ html, body {
 }
 
 .mainphoto {
-  background: url(mainphoto1.jpg) no-repeat center center;
+  background: url(mainphoto1.JPG) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto2 {
-  background: url(mainphoto2.jpg) no-repeat center center;
+  background: url(mainphoto2.JPG) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto3 {
-  background: url(mainphoto3b.jpg) no-repeat center center;
+  background: url(mainphoto3b.JPG) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto4 {
-  background: url(ivan-3.jpg) no-repeat center center;
+  background: url(ivan-3.JPG) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
 
 .mainphoto5 {
-  background: url(mainphoto5.jpg) no-repeat center center;
+  background: url(mainphoto5.JPG) no-repeat center center;
   background-size: cover;
   height: 620px;
 }
